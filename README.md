@@ -1,2 +1,2 @@
-# Swift-AppUITests
-Test application for UI tests
+# Swift AppUITests
+## Test application for UI tests
